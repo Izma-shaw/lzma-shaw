@@ -54,8 +54,8 @@ N'hésitez pas à me contacter pour toute opportunité ou collaboration !
 
 ## 📫 Me contacter
 
-- **Email :** ismael.sow@example.com
-- **LinkedIn :** [Ismael Sow](https://www.linkedin.com/in/ismael-sow)
+- **Email :** sowismael224@.com
+- **LinkedIn :** [Ismael Sow](www.linkedin.com/in/sow-ismael-11871a140)
 - **Portfolio :** [Portfolio déployé sur Vercel](https://tonportfolio.vercel.app)
 
 Merci de visiter mon profil ! 🚀
